@@ -1,0 +1,56 @@
+.likely,.likely__widget{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;display:inline-block;padding:0;word-spacing:0!important;text-indent:0!important;list-style:none!important;font-weight:400;font-family:"Helvetica Neue",Arial,sans-serif;font-size:inherit}
+.likely__widget{margin:0}.likely{opacity:0}.likely_visible{opacity:1;transition:opacity .1s ease-in}.likely>*{display:inline-block;visibility:hidden}.likely_visible>*{visibility:inherit}.likely__widget{display:inline-block;position:relative;white-space:nowrap}.likely__button,.likely__counter{text-decoration:none;text-rendering:optimizeLegibility;display:inline-block;margin:0;outline:0}.likely__button{position:relative;user-select:none}.likely__counter{display:none;position:relative;font-weight:400}.likely_ready .likely__counter{display:inline-block}.likely_ready .likely__counter_empty{display:none}.likely__widget,.likely__icon,.likely__button,.likely__counter{vertical-align:top}.likely__widget{transition:background .33s ease-out,color .33s ease-out,fill .33s ease-out;line-height:inherit}.likely__widget:hover,.likely__widget:active,.likely__widget:focus{transition:none;cursor:pointer}.likely__icon{position:relative;text-align:left;display:inline-block}.likely svg{position:absolute}.likely__button,.likely__counter{line-height:inherit;cursor:inherit}.likely__button:empty{display:none}.likely__counter{text-align:center}.likely .likely__widget{color:#000;background:#F5F5F5}.likely .likely__counter{background-size:1px 1px;background-repeat:repeat-y;background-image:linear-gradient(to right,rgba(0,0,0,.2)0,rgba(0,0,0,0).5px,rgba(0,0,0,0)100%)}.likely__widget_facebook{fill:#425497}.likely__widget_facebook:hover,.likely__widget_facebook:active,.likely__widget_facebook:focus{background:rgba(187, 198, 237, .8)}.likely__widget_twitter{fill:#00b7ec}.likely__widget_twitter:hover,.likely__widget_twitter:active,.likely__widget_twitter:focus{background:rgba(191,237,250,.8)}.likely__widget_gplus{fill:#dd4241}.likely__widget_gplus:hover,.likely__widget_gplus:active,.likely__widget_gplus:focus{background:rgba(246,207,207,.8)}.likely__widget_vkontakte{fill:#526e8f}.likely__widget_vkontakte:hover,.likely__widget_vkontakte:active,.likely__widget_vkontakte:focus{background:rgba(195, 220, 249, .8)}.likely__widget_odnoklassniki{fill:#f6903b}.likely__widget_odnoklassniki:hover,.likely__widget_odnoklassniki:active,.likely__widget_odnoklassniki:focus{background:rgba(252,227,206,.8)}.likely{font-size:14px;line-height:20px;vertical-align:middle;margin-bottom:-3px;}.likely .likely__widget{height:22px;margin:0;}.likely .likely__icon{width:22px;height:22px}.likely .likely__button{padding:1px 4px 1px 0}.likely .likely__counter{padding:1px 4px}.likely svg{left:3px;top:3px;width:16px;height:16px}.likely__widget:first-child{margin-left:0}.likely__widget:last-child{margin-right:0}
+
+.fancybox-wrap,.fancybox-skin,.fancybox-outer,.fancybox-inner,.fancybox-image,.fancybox-wrap iframe,.fancybox-wrap object,.fancybox-tmp{padding:0;margin:0;border:0;outline:none;vertical-align:top;}
+.fancybox-wrap{position:absolute;top:0;left:0;z-index:8020;}
+.fancybox-skin{position:relative;background:#fff;color:#444;text-shadow:none;}
+.fancybox-opened{z-index:8030}
+.fancybox-opened .fancybox-skin{box-shadow:0 10px 25px rgba(0, 0, 0, 0.3)}
+.fancybox-outer, .fancybox-inner{position:relative}
+.fancybox-inner{overflow:hidden}
+.fancybox-type-iframe .fancybox-inner{-webkit-overflow-scrolling:touch}
+.fancybox-error{color:#444;font:14px/20px "Helvetica Neue",Helvetica,Arial,sans-serif;margin:0;padding:15px;white-space:nowrap;}
+.fancybox-image, .fancybox-iframe{display:block;width:100%;height:100%;}
+.fancybox-image{max-width:100%;max-height:100%;}
+#fancybox-loading, .fancybox-prev span, .fancybox-next span{background-image:url('fancybox_sprite.png');}
+#fancybox-loading{position:fixed;top:50%;left:50%;margin-top:-22px;margin-left:-22px;background-position:0 -108px;opacity:0.8;cursor:pointer;z-index:8060;}
+#fancybox-loading div{width:44px;height:44px;background:url('fancybox_loading.gif') center center no-repeat;}
+.fancybox-close{position:absolute;top:-15px;right:-17px;width:30px;height:30px;cursor:pointer;z-index:8040;background:#6D6D6D;color:#fff;text-decoration:none;text-align:center;text-shadow:-1px 1px 0 rgba(0,0,0,.2);font-weight:bold;line-height:27px;font-size:25px;border:2px solid #fff;box-shadow:0 1px 5px rgba(0, 0, 0, 0.81);border-radius:50%;transition:background 0.3s ease;}
+.fancybox-close:hover {background:#C45B5B;}
+.fancybox-opened .fancybox-title{visibility:visible;}
+.fancybox-tmp{position:absolute;top:-99999px;left:-99999px;visibility:hidden;max-width:99999px;max-height:99999px;overflow:visible !important;}
+.fancybox-lock{overflow:hidden !important;width:auto;}
+.fancybox-lock body{overflow:hidden !important}
+.fancybox-lock-test{overflow-y:hidden !important}
+.fancybox-overlay{position:absolute;top:0;left:0;overflow:hidden;display:none;z-index:8010;background:url('fancybox_overlay.png');}
+.fancybox-overlay-fixed{position:fixed;bottom:0;right:0;}
+.fancybox-lock .fancybox-overlay{overflow:auto;overflow-y:scroll;}
+.fancybox-title{visibility:hidden;font:normal 13px/20px "Helvetica Neue",Helvetica,Arial,sans-serif;position:relative;text-shadow:none;z-index:8050;}
+.fancybox-title-float-wrap{position:absolute;bottom:0;right:50%;margin-bottom:-35px;z-index:8050;text-align:center;}
+.fancybox-title-float-wrap .child{display:inline-block;margin-right:-100%;padding:2px 20px;background:transparent;background:rgba(0, 0, 0, 0.8);-webkit-border-radius:15px;-moz-border-radius:15px;border-radius:15px;text-shadow:0 1px 2px #222;color:#FFF;font-weight:bold;line-height:24px;white-space:nowrap;}
+.fancybox-title-outside-wrap{position:relative;margin-top:10px;color:#fff;}
+.fancybox-title-inside-wrap{padding-top:10px}
+.fancybox-title-over-wrap{position:absolute;bottom:0;left:0;color:#fff;padding:10px;background:#000;background:rgba(0, 0, 0, .8);}
+@media only screen and (-webkit-min-device-pixel-ratio:1.5), only screen and (min--moz-device-pixel-ratio:1.5), only screen and (min-device-pixel-ratio:1.5){#fancybox-loading, .fancybox-prev span, .fancybox-next span{background-image:url('fancybox_sprite@2x.png');background-size:44px 152px;}
+#fancybox-loading div{background-image:url('fancybox_loading@2x.gif');background-size:24px 24px;}
+}
+
+pre code {display:block;padding:0.5em;background:#f5fafc;color:black;}
+pre .comment,pre .template_comment,pre .javadoc,pre .comment * {/*color:#800;*/font-style:italic;color:#998;}
+pre .keyword,pre .method,pre .list .title,pre .clojure .built_in,pre .nginx .title,pre .tag .title,pre .setting .value,pre .winutils,pre .tex .command,pre .http .title,pre .request,pre .status {/*color:#008;*/color:#0086b3;}
+pre .envvar,pre .tex .special {color:#660;}
+pre .string,pre .tag .value,pre .cdata,pre .filter .argument,pre .attr_selector,pre .apache .cbracket,pre .date,pre .regexp {color:#080;}
+pre .sub .identifier,pre .pi,pre .tag,pre .tag .keyword,pre .decorator,pre .ini .title,pre .shebang,pre .prompt,pre .hexcolor,pre .rules .value,pre .css .value .number,pre .literal,pre .symbol,pre .ruby .symbol .string,pre .number,pre .css .function,pre .clojure .attribute {color:#066;}
+pre .class .title,pre .haskell .type,pre .smalltalk .class,pre .javadoctag,pre .yardoctag,pre .phpdoc,pre .typename,pre .tag .attribute,pre .doctype,pre .class .id,pre .built_in,pre .setting,pre .params,pre .variable,pre .clojure .title {color:#606;}
+pre .css .tag,pre .rules .property,pre .pseudo,pre .subst {color:#000;}
+pre .css .class, pre .css .id {/*color:#9B703F;*/color:#d01040;}
+pre .value .important {color:#ff7700;font-weight:bold;}
+pre .rules .keyword {color:#C5AF75;}
+pre .annotation,pre .apache .sqbracket,pre .nginx .built_in {color:#9B859D;}
+pre .preprocessor,pre .preprocessor * {color:#444;}
+pre .tex .formula {background-color:#EEE;font-style:italic;}
+pre .diff .header,pre .chunk {color:#808080;font-weight:bold;}
+pre .diff .change {background-color:#BCCFF9;}
+pre .addition {background-color:#BAEEBA;}
+pre .deletion {background-color:#FFC8BD;}
+pre .comment .yardoctag {font-weight:bold;}

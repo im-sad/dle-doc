@@ -1,0 +1,1 @@
+<p class="import"><? echo $l['noedit'] ?></p>

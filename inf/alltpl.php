@@ -1,0 +1,1 @@
+<p class="inf"><? echo $l['to_all'] ?></p>

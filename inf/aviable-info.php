@@ -1,0 +1,1 @@
+<p class="inf"><? echo $l['aviable_old'] ?></p>
