@@ -1,7 +1,0 @@
-AuthType Basic
-AuthName "/www/dle-doc.ru/webstat"
-AuthUserFile /var/www/sadmrak/data/etc/54919459.passwd
-DirectoryIndex index.html
-<Limit GET POST>
-	require valid-user
-</Limit>
