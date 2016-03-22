@@ -82,7 +82,7 @@ include_once ROOT_DIR . '/_site/site.lng';
 				<a class="oldArch" href="https://dl.dropboxusercontent.com/u/31214341/dle-doc/test-template_103.zip">10.3</a>
 				<a class="oldArch" href="https://dl.dropboxusercontent.com/u/31214341/dle-doc/test-template_104.zip">10.4</a>
 				<a class="oldArch" href="https://dl.dropboxusercontent.com/u/31214341/dle-doc/test-template_105.zip">10.5</a>
-				<a class="oldArch" href="https://dl.dropboxusercontent.com/u/31214341/dle-doc/test-template.zip">10.6</a>
+				<a class="oldArch" href="https://dl.dropboxusercontent.com/u/31214341/dle-doc/test-template_106.zip">10.6</a>
 			</div>
 		</div>
 	</div>
