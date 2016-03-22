@@ -63,7 +63,7 @@ include_once ROOT_DIR . '/_site/site.lng';
 	</div>
 
 	<div class="testTemplate">
-		<a class="testLink" href="https://dl.dropboxusercontent.com/u/31214341/dle-doc/test-template.zip"><? echo $l['downloadBtn'] ?><span class="vers"><? echo $l['verDate'] ?> 10.6<!-- <? echo $ver ?> --></span></a>
+		<a class="testLink" href="https://dl.dropboxusercontent.com/u/31214341/dle-doc/test-template.zip"><? echo $l['downloadBtn'] ?><span class="vers"><? echo $l['verDate'] ?> <? echo $ver ?></span></a>
 		<p><a class="fancybox" href="#test"><? echo $l['watisthis'] ?></a></p>
 		<div id="test" class="upCont">
 			<div class="section">
