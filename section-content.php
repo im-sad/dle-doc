@@ -196,6 +196,10 @@
 				<? echo $l['addnews_D'] ?>
 			</div>
 			<div class="section">
+				<h3><? echo $l['p_url'] ?></h3>
+				<code class="curl">site.com/addnews.html</code>
+			</div>
+			<div class="section">
 				<h3><? echo $l['p_tags'] ?></h3>
 				<table class="uses"><?PHP  include_once 'table/addnews.php';  ?></table>
 				<?PHP  include 'inf/noedit.php';  ?>
@@ -214,6 +218,10 @@
 			<div class="section">
 				<h3><? echo $l['p_desc'] ?></h3>
 				<? echo $l['feed_D'] ?>
+			</div>
+			<div class="section">
+				<h3><? echo $l['p_url'] ?></h3>
+				<code class="curl">site.com/index.php?do=feedback</code>
 			</div>
 			<div class="section">
 				<h3><? echo $l['p_tags'] ?></h3>
@@ -236,6 +244,10 @@
 				<? echo $l['lost_D'] ?>
 			</div>
 			<div class="section">
+				<h3><? echo $l['p_url'] ?></h3>
+				<code class="curl">site.com/index.php?do=lostpassword</code>
+			</div>
+			<div class="section">
 				<h3><? echo $l['p_tags'] ?></h3>
 				<table class="uses"><?PHP  include_once 'table/lostpassword.php';  ?></table>
 				<?PHP  include 'inf/noedit.php';  ?>
@@ -254,6 +266,10 @@
 			<div class="section">
 				<h3><? echo $l['p_desc'] ?></h3>
 				<? echo $l['pm_D'] ?>
+			</div>
+			<div class="section">
+				<h3><? echo $l['p_url'] ?></h3>
+				<code class="curl">site.com/index.php?do=pm</code>
 			</div>
 			<div class="section">
 				<h3><? echo $l['p_tags'] ?></h3>
@@ -276,6 +292,10 @@
 				<? echo $l['reg_D'] ?>
 			</div>
 			<div class="section">
+				<h3><? echo $l['p_url'] ?></h3>
+				<code class="curl">site.com/index.php?do=register</code>
+			</div>
+			<div class="section">
 				<h3><? echo $l['p_tags'] ?></h3>
 				<table class="uses"><?PHP  include_once 'table/registration.php';  ?></table>
 				<?PHP  include 'inf/noedit.php';  ?>
@@ -293,6 +313,10 @@
 			<div class="section">
 				<h3><? echo $l['p_desc'] ?></h3>
 				<? echo $l['srch_D'] ?>
+			</div>
+			<div class="section">
+				<h3><? echo $l['p_url'] ?></h3>
+				<code class="curl">site.com/index.php?do=search</code>
 			</div>
 			<div class="section">
 				<h3><? echo $l['p_tags'] ?></h3>
@@ -351,6 +375,10 @@
 				<? echo $l['stats_D'] ?>
 			</div>
 			<div class="section">
+				<h3><? echo $l['p_url'] ?></h3>
+				<code class="curl">site.com/statistics.html</code>
+			</div>
+			<div class="section">
 				<h3><? echo $l['p_tags'] ?></h3>
 				<table class="uses"><?PHP  include_once 'table/stats.php';  ?></table>
 			</div>
@@ -368,6 +396,10 @@
 			<div class="section">
 				<h3><? echo $l['p_desc'] ?></h3>
 				<? echo $l['tagspage_D'] ?>
+			</div>
+			<div class="section">
+				<h3><? echo $l['p_url'] ?></h3>
+				<code class="curl">site.com/tags/</code>
 			</div>
 			<div class="section">
 				<h3><? echo $l['p_tags'] ?></h3>
