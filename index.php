@@ -50,7 +50,7 @@ include_once ROOT_DIR . '/_site/site.lng';
 
 <div class="ahtng">
 	<span class="ahtng-close">&times;</span>
-	<p>Вёрстка для <b>DLE</b> и любые работы с шаблонами. Примеры в <a target="_blank" href="http://v.sadisme.ru/">нанопортфолио</a></p>
+	<p>Вёрстка для <b>DLE</b> и любые работы с шаблонами. Примеры в <a target="_blank" href="http://sadisme.ru/">нанопортфолио</a></p>
 	<p class="ahtng-links">Пиши в <a target="_blank" href="http://vk.com/sadmrak">ВК</a>, <a target="_blank" href="skype:sadmrak">Skype</a> или на <a target="_blank" href="mailto:im-sad@ya.ru">почту</a></p>
 </div>
 
