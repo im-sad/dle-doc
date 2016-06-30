@@ -19,6 +19,10 @@
 	<td><? echo $l['dlelogin_user'] ?></td>
 </tr>
 <tr>
+	<td>{login}</td>
+	<td><? echo $l['userinfo_login'] ?></td>
+</tr>
+<tr>
 	<td>{admin-link}</td>
 	<td><? echo $l['dlelogin_adm'] ?></td>
 </tr>
