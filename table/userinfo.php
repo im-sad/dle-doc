@@ -58,6 +58,18 @@
 	<td>{info}</td>
 	<td><? echo $l['userinfo_info'] ?></td>
 </tr>
+<tr class="addIn111">
+	<td>{unsubscribe}</td>
+	<td><? echo $l['userinfo_unsub'] ?></td>
+</tr>
+<tr class="addIn111">
+	<td>{news-subscribe}</td>
+	<td><? echo $l['userinfo_newssub'] ?></td>
+</tr>
+<tr class="addIn111">
+	<td>{comments-reply-subscribe}</td>
+	<td><? echo $l['userinfo_commsub'] ?></td>
+</tr>
 
 <tr>
 	<td>{foto}</td>

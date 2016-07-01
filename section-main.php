@@ -519,6 +519,7 @@
 				<h3><? echo $l['p_desc'] ?></h3>
 				<? echo $l['pagecount_D'] ?>
 				<p class="inf"><? echo $l['pagecount_DD'] ?></p>
+				<p class="inf"><? echo $l['category_DD'] ?></p>
 			</div>
 			<div class="section">
 				<h3><? echo $l['p_example'] ?></h3>
@@ -538,6 +539,7 @@
 				<h3><? echo $l['p_desc'] ?></h3>
 				<? echo $l['news_D'] ?>
 				<p class="inf"><? echo $l['news_DD'] ?></p>
+				<p class="inf"><? echo $l['category_DD'] ?></p>
 			</div>
 			<div class="section">
 				<h3><? echo $l['p_example'] ?></h3>

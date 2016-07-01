@@ -46,3 +46,11 @@
 	<td>{date=<? echo $l['format_date'] ?>}</td>
 	<td><? echo $l['short_dateX'] ?></td>
 </tr>
+<tr class="addIn111">
+	<td>{online-view-link}</td>
+	<td><? echo $l['attach_online'] ?></td>
+</tr>
+<tr class="addIn111">
+	<td>[allow-online] <? echo $l['and'] ?> [/allow-online]</td>
+	<td><? echo $l['attach_onlineIf'] ?></td>
+</tr>

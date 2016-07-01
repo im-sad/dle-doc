@@ -138,10 +138,10 @@ footer p {margin-bottom:10px}
 
 
 /* version history */
-.addIn101,.addIn102,.addIn103,.addIn104,.addIn105,.addIn106 {/* background:#FFFDE8 */}
-.addIn11 {background:#FFFDE8}
-.box.addIn11 {background:transparent}
-.box.addIn11::after {content:'';position:absolute;right:-5px;bottom:-5px;width:0;height:0;border:10px solid transparent;border-left-color:#F2CA5D;transform:rotate(45deg);}
+.addIn101,.addIn102,.addIn103,.addIn104,.addIn105,.addIn106,.addIn11 {/* background:#FFFDE8 */}
+.addIn111 {background:#FFFDE8}
+.box.addIn111 {background:transparent}
+.box.addIn111::after {content:'';position:absolute;right:-5px;bottom:-5px;width:0;height:0;border:10px solid transparent;border-left-color:#F2CA5D;transform:rotate(45deg);}
 
 
 
