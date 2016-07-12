@@ -127,6 +127,15 @@
 	<td>[xfvalue_X limit="Y"]</td>
 	<td><? echo $l['short_xL'] ?></td>
 </tr>
+<tr class="addIn111">
+	<td>[xfvalue_image_url_X]</td>
+	<td><? echo $l['short_xImg'] ?></td>
+</tr>
+<tr class="addIn111">
+	<td>[xfvalue_thumb_url_X]</td>
+	<td><? echo $l['short_xThumb'] ?></td>
+</tr>
+
 <tr>
 	<td>{tags}</td>
 	<td><? echo $l['short_tags'] ?></td>

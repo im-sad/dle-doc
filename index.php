@@ -62,6 +62,7 @@ include_once ROOT_DIR . '/_site/site.lng';
 		<?PHP  include_once ROOT_DIR . '/section-other.php';  ?>
 	</div>
 
+<!--
 	<div class="testTemplate">
 		<a class="testLink" href="https://dl.dropboxusercontent.com/u/31214341/dle-doc/test-template.zip"><? echo $l['downloadBtn'] ?><span class="vers"><? echo $l['verDate'] ?> <? echo $ver ?></span></a>
 		<p><a class="fancybox" href="#test"><? echo $l['watisthis'] ?></a></p>
@@ -86,6 +87,7 @@ include_once ROOT_DIR . '/_site/site.lng';
 			</div>
 		</div>
 	</div>
+-->
 
 	<div class="comments">
 		<div id="vk_comments"></div>
